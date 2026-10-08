@@ -1,0 +1,18 @@
+C:\Users\Dion\OneDrive\Code\Lenovo Keyboard Backlight Control\bin\Debug\net11.0-windows\Lenovo Keyboard Backlight Control.exe
+C:\Users\Dion\OneDrive\Code\Lenovo Keyboard Backlight Control\bin\Debug\net11.0-windows\Lenovo Keyboard Backlight Control.deps.json
+C:\Users\Dion\OneDrive\Code\Lenovo Keyboard Backlight Control\bin\Debug\net11.0-windows\Lenovo Keyboard Backlight Control.runtimeconfig.json
+C:\Users\Dion\OneDrive\Code\Lenovo Keyboard Backlight Control\bin\Debug\net11.0-windows\Lenovo Keyboard Backlight Control.runtimeconfig.dev.json
+C:\Users\Dion\OneDrive\Code\Lenovo Keyboard Backlight Control\bin\Debug\net11.0-windows\Lenovo Keyboard Backlight Control.dll
+C:\Users\Dion\OneDrive\Code\Lenovo Keyboard Backlight Control\bin\Debug\net11.0-windows\Lenovo Keyboard Backlight Control.pdb
+C:\Users\Dion\OneDrive\Code\Lenovo Keyboard Backlight Control\obj\Debug\net11.0-windows\Lenovo Keyboard Backlight Control.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dion\OneDrive\Code\Lenovo Keyboard Backlight Control\obj\Debug\net11.0-windows\Lenovo Keyboard Backlight Control.AssemblyInfoInputs.cache
+C:\Users\Dion\OneDrive\Code\Lenovo Keyboard Backlight Control\obj\Debug\net11.0-windows\Lenovo Keyboard Backlight Control.AssemblyInfo.cs
+C:\Users\Dion\OneDrive\Code\Lenovo Keyboard Backlight Control\obj\Debug\net11.0-windows\Lenovo Keyboard Backlight Control.csproj.CoreCompileInputs.cache
+C:\Users\Dion\OneDrive\Code\Lenovo Keyboard Backlight Control\obj\Debug\net11.0-windows\Lenovo Keyboard Backlight Control.dll
+C:\Users\Dion\OneDrive\Code\Lenovo Keyboard Backlight Control\obj\Debug\net11.0-windows\refint\Lenovo Keyboard Backlight Control.dll
+C:\Users\Dion\OneDrive\Code\Lenovo Keyboard Backlight Control\obj\Debug\net11.0-windows\Lenovo Keyboard Backlight Control.pdb
+C:\Users\Dion\OneDrive\Code\Lenovo Keyboard Backlight Control\obj\Debug\net11.0-windows\Lenovo Keyboard Backlight Control.genruntimeconfig.cache
+C:\Users\Dion\OneDrive\Code\Lenovo Keyboard Backlight Control\obj\Debug\net11.0-windows\ref\Lenovo Keyboard Backlight Control.dll
+C:\Users\Dion\OneDrive\Code\Lenovo Keyboard Backlight Control\obj\Debug\net11.0-windows\Lenovo K.2FB35D05.Up2Date
+C:\Users\Dion\OneDrive\Code\Lenovo Keyboard Backlight Control\bin\Debug\net11.0-windows\dnlib.dll
+C:\Users\Dion\OneDrive\Code\Lenovo Keyboard Backlight Control\obj\Debug\net11.0-windows\Lenovo Keyboard Backlight Control.csproj.AssemblyReference.cache
